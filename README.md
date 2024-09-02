@@ -9,7 +9,7 @@ Welcome everybody to my Github profile! I'm Juan, a Computer Science student at 
 - **Advanced Web Technologies:** Getting experience in frameworks like React and Angular.
 ## 💞️ I’m looking to collaborate on:
 - **Multicultural and International Projects:** I would love to join forces with people from diverse backgrounds to develop projects with a global impact.
-- **AI Development:** Contributin to projects focused on innovating and refining the field of AI.
+- **AI Development:** Contributing to projects focused on innovating and refining the field of AI.
 - **Data-Driven Solutions:** Working in projects where data science and big data make the difference.
 ## 📫 How to reach me:
 The best way to get in touch with me is via email at [j.sanchezfedez@gmail.com](mailto:j.sanchezfedez@gmail.com). Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/juansanchezfedez/) for professional inquiries and collaborations.

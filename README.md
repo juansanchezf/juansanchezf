@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Juan, a Master's student in Big Data, Technolo
 ## 🌱 I’m currently learning:
 - **Big Data Architectures:** Designing and implementing robust, scalable systems using frameworks like Apache Spark, Kafka, and Hadoop.
 - **Machine Learning Optimization:** Enhancing models through hyperparameter tuning, explainable AI (XAI), and advanced algorithms.
-- **Cloud Technologies:**Exploring cloud platforms and tools to optimize data pipelines and model deployments.
+- **Cloud Technologies:** Exploring cloud platforms and tools to optimize data pipelines and model deployments.
 ## 💞️ I’m looking to collaborate on:
 - **Multicultural and International Projects:** I would love to join forces with people from diverse backgrounds to develop projects with a global impact.
 - **AI and Big Data Projects:** Solving complex real-world problems through data-driven insights and cutting-edge technologies.
